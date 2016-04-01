@@ -1,4 +1,4 @@
-- The programms in this Folder are implemented by Meng-Chieh Yang in November at Stony Brook University
+- The programms in this Folder are implemented by Meng-Chieh Yang in November at Stony Brook University.
 
 - The original kernel descriptors and its implementetion are originated from the authors listed below( please refer to ../kde_2.0 for details):
 Liefeng Bo, Xiaofeng Ren and Dieter Fox, Kernel Descriptors for Visual Recognition, Advances in Neural Information Processing Systems (NIPS), Dec. 2010.
