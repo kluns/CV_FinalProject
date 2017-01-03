@@ -1,13 +1,13 @@
-This read me file edited by Kevin Tsai and Jay Yang in November 2015 at Stony Brook University
+This read me file edited by Kevin Tsai and Jay Yang in November 2015 at Stony Brook University.
 
 The files in our document are as following:
 SceneImage (store image in this document)
-ObjectDetection.m
-ObjectDetection_Corp.m
-depthToCloud.m
-SegmentationVer2.m
+ObjectDetection.m\
+ObjectDetection_Corp.m\
+depthToCloud.m\
+SegmentationVer2.m\
 
-1. Before running our code, please run following commend
+1. Before running our code, please run following commend:
  (1). run('vlfeat-0.9.20/toolbox/vl_setup')
  (2). mex -setup
 
